@@ -1,4 +1,4 @@
-// mon script
+// shifumi
 
 let jeu = {
     "choix_robot": "",
