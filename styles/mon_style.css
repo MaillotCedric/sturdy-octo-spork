@@ -1,2 +1,31 @@
 /* mon style */
 /* shifumi -- background color : #262161 */
+
+body {
+    background-color: #262161 !important;
+}
+
+.card {
+    border-bottom-right-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+
+.card-head {
+    background-color: #262161;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.card-head > img {
+    width: 140px;
+}
+
+#icon--shifumi {
+    border-radius: 360px;
+    padding: 8px;
+}
+
+.row > div {
+    display: flex;
+    justify-content: center;
+}
